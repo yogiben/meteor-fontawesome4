@@ -3,7 +3,7 @@
   "description": "Font Awesome 4.x packaged for Meteor",
   "homepage": "https://github.com/chrismbeckett/meteor-fontawesome4",
   "author": "Chris Beckett (https://github.com/chrismbeckett)",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "git": "https://github.com/chrismbeckett/meteor-fontawesome4.git",
   "packages": {}
 }

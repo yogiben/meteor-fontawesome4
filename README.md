@@ -4,9 +4,9 @@
 
 ## History
 
-**Latest Version:** 1.1.0
+**Latest Version:** 1.1.0 - Updated to Font Awesome v4.1
 
-See the [History.md](History.md) file for changes across versions.
+See the [History.md](./History.md) file for changes across versions.
 
 ## Installation
 

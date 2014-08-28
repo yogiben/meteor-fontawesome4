@@ -1,16 +1,20 @@
 Package.describe({
-  "summary": "Scalable vector icons that can be customized with the power of CSS."
+  "summary": "Scalable vector icons that can be customized with the power of CSS.",
+  "version": "4.2.0",
+  "git": "https://github.com/chrismbeckett/meteor-fontawesome4.git"
 });
 
-Package.on_use(function (api) {
+Package.onUse(function (api) {
 
-  api.add_files("lib/fonts/fontawesome-webfont.eot", "client");
-  api.add_files("lib/fonts/fontawesome-webfont.svg", "client");
-  api.add_files("lib/fonts/fontawesome-webfont.ttf", "client");
-  api.add_files("lib/fonts/fontawesome-webfont.woff", "client");
-  api.add_files("lib/fonts/FontAwesome.otf", "client");
+  api.versionsFrom('METEOR@0.9.0');
 
-  api.add_files("lib/css/font-awesome.min.css", "client");
-  api.add_files("font-awesome-overrides.css", "client");
+  api.addFiles("lib/fonts/fontawesome-webfont.eot", "client");
+  api.addFiles("lib/fonts/fontawesome-webfont.svg", "client");
+  api.addFiles("lib/fonts/fontawesome-webfont.ttf", "client");
+  api.addFiles("lib/fonts/fontawesome-webfont.woff", "client");
+  api.addFiles("lib/fonts/FontAwesome.otf", "client");
+
+  api.addFiles("lib/css/font-awesome.css", "client");
+  api.addFiles("font-awesome-overrides.css", "client");
 
 });

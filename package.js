@@ -1,6 +1,6 @@
 Package.describe({
   "summary": "Scalable vector icons that can be customized with the power of CSS.",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "git": "https://github.com/chrismbeckett/meteor-fontawesome4.git"
 });
 

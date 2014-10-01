@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'FontAwesome';
-  src: url('/packages/chrismbeckett:fontawesome4/lib/fonts/fontawesome-webfont.eot?v=4.2.0');
-  src: url('/packages/chrismbeckett:fontawesome4/lib/fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'),
-    url('/packages/chrismbeckett:fontawesome4/lib/fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'),
-    url('/packages/chrismbeckett:fontawesome4/lib/fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'),
-    url('/packages/chrismbeckett:fontawesome4/lib/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');
+  src: url('/packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.eot?v=4.2.2');
+  src: url('/packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.eot?#iefix&v=4.2.2') format('embedded-opentype'),
+    url('/packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.woff?v=4.2.2') format('woff'),
+    url('/packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.ttf?v=4.2.2') format('truetype'),
+    url('/packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.svg?v=4.2.2#fontawesomeregular') format('svg');
 }

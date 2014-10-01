@@ -1,12 +1,12 @@
 Package.describe({
   "summary": "Scalable vector icons that can be customized with the power of CSS.",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "git": "https://github.com/chrismbeckett/meteor-fontawesome4.git"
 });
 
 Package.onUse(function (api) {
 
-  api.versionsFrom('METEOR@0.9.0');
+  api.versionsFrom('METEOR@0.9.2.1');
 
   api.addFiles("lib/fonts/fontawesome-webfont.eot", "client");
   api.addFiles("lib/fonts/fontawesome-webfont.svg", "client");

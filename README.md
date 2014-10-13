@@ -2,6 +2,8 @@
 
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/) packaged for [MeteorJS](http://meteor.com).
 
+`meteor add chrismbeckett:fontawesome4`
+
 ## Change History
 
 Release: <b>v4.2.0</b>
